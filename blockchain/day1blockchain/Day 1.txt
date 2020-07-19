@@ -1,0 +1,84 @@
+-------------------------------------------------------------------***  BlockChain Day 1 Assignment  ***-----------------------------------------------------
+
+1.What is your understanding of Blockchain?
+
+A)  The growing popularity of cryptocurrencies has aroused mainstream interest in blockchain technologies and their possibilities. Increasingly, blockchain is used as a generic term that most people associate with Bitcoin, the cryptocurrency created using the technology. The potential and scope of the application of decentralized protocols have already become so much broader.
+
+    The Bitcoin blockchain is a global distributed ledger consisting of data blocks sequentially linked in a chain. Each block contains information about the preceding block. The data of blocks is copied and stored on different Bitcoin mining nodes without being bound to one specific server, making the substitution of records impossible.
+
+
+
+
+
+2.What is the core problem Blockchain trying to solve?
+
+A)WHAT ARE YOU TRYING TO DO:		
+• Record
+
+• Track
+
+• Verify
+
+• Aggregate
+
+• Information and knowledge
+
+• Attribution and responsibility
+
+• Access or permission
+
+• Decision rights or votes
+
+• Ownership or incentives
+
+• Reputation and trust
+
+• Contracts
+
+• Transactions
+
+• Customers
+
+• Employees
+
+• Suppliers
+
+• Producers or makers
+
+• Creditors or investors
+
+• Governments
+
+• Citizens
+
+
+
+
+3.What are the few features which Blockchain will give you?
+
+A)  Features of Blockchain:
+        These are the four features of Blockchain which we are going to talk about in detail:
+
+-->We have a public distributed ledger, which works using a hashing encryption.
+-->Every block has a hash value, which is the digital signature of the block.
+-->All the transactions are approved and verified on the Blockchain network using a proof-of-work consensus algorithm.
+-->The Blockchain network utilizes the resources of the miners, who are there to validate the transactions for rewards.
+
+
+
+4.What all things does a Block contain?
+
+A)	Transaction data is permanently recorded in files called blocks. They can be thought of as the individual pages of a city recorder's recordbook (where changes to title to real estate are recorded) or a stock transaction ledger. Blocks are organized into a linear sequence over time (also known as the block chain). New transactions are constantly being processed by miners into new blocks which are added to the end of the chain. As blocks are buried deeper and deeper into the blockchain they become harder and harder to change or remove, this gives rise of bitcoin's Irreversible Transactions.
+
+
+5. How is the verifiability of Blockchain has been attained?
+
+A)zk-SNARK stands for zero-knowledge succinct non-interactive argument of knowledge. zk-SNARKS are a cryptographic proof system that enable a user to verify a transaction without revealing the underlying data of the transaction, and without interacting with the user who published the transaction.
+
+--->If the Fingerprint is Different in the certain block.I means the data in the Block has been changed.And atlast the block  should change the total data in the block from the nearest User.
+       And By that he will get the same finerprint.
+
+
+
+
+
